@@ -1,4 +1,4 @@
-```md
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=ASHFAQ%20AHMED&fontSize=40&fontColor=ffffff" />
