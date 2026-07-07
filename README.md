@@ -115,8 +115,8 @@ I believe in **learning by building and improving every day.**
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02"/>
 </p>
 
 ---
