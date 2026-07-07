@@ -11,7 +11,7 @@
 
 <!-- VISITOR -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=203A43&style=flat" />
+  <img src="username=ashfaq-ahmed02" />
 </p>
 
 ---
@@ -123,9 +123,9 @@ I believe in **learning by building and improving every day.**
 
 # 🐍 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg">
 </picture>
 
 # 📫 Connect With Me
@@ -145,15 +145,15 @@ I believe in **learning by building and improving every day.**
 # 🤝 Connect
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="ashfaqashu689@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/ashfaq-ahmed-m-b3a49a2a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/yourgithubusername">
+  <a href="https://github.com/ashfaq-ahmed02">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
