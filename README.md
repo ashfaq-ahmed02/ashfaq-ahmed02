@@ -122,12 +122,11 @@ I believe in **learning by building and improving every day.**
 ---
 
 # 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/output/github-contribution-grid-snake.svg" />
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 # 📫 Connect With Me
 
