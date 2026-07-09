@@ -128,27 +128,27 @@ I enjoy designing secure systems, developing scalable web applications, and cont
 
 ---
 
+---
+
 # ⚡ Quick Facts
 
-```yaml
-Name: Ashfaq Ahmed
+<div align="center">
 
-Role:
-  - Computer Network Enthusiast
-  - Cybersecurity Learner
-  - MERN Developer
-  - UI/UX Designer
+<img src="https://img.shields.io/badge/🎓-Final%20Year%20CSE-00ff99?style=for-the-badge"/>
 
-Current Status:
-  Final Year CSE
+<img src="https://img.shields.io/badge/👨‍💼-C3%20President-00bfff?style=for-the-badge"/>
 
-Club:
-  President - Campus to Corporate (C3)
+<img src="https://img.shields.io/badge/🌐-Computer%20Networking-00ff99?style=for-the-badge"/>
 
-Languages:
-  JavaScript
-  Python
-  Java
+<img src="https://img.shields.io/badge/🔐-Cybersecurity-00bfff?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻-MERN%20Developer-00ff99?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎨-UI%2FUX%20Designer-00bfff?style=for-the-badge"/>
+
+</div>
+
+---
 
 ---
 
