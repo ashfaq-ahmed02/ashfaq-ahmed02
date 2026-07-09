@@ -149,6 +149,280 @@ Languages:
   JavaScript
   Python
   Java
+<!-- ========================================================= -->
+# 🚀 Featured Projects
+<!-- ========================================================= -->
+
+<h2 align="center">⚡ Featured Projects ⚡</h2>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 RuView WiFi Sensing
+
+AI-powered WiFi CSI sensing system.
+
+### ⚡ Features
+
+- ESP32 Integration
+- Real-Time WiFi CSI
+- Human Presence Detection
+- Live Dashboard
+- Python Backend
+- AI Analytics
+
+**Tech Stack**
+
+`Python` `ESP32` `WebSocket` `AI` `Networking`
+
+🔗 **Repository:** *(Add your GitHub link here)*
+
+</td>
+
+<td width="50%">
+
+## 🛡 Firewall Monitoring System
+
+Network traffic monitoring dashboard.
+
+### ⚡ Features
+
+- Packet Inspection
+- Real-Time Logs
+- Flask Dashboard
+- SQLite / MySQL
+- IP Monitoring
+- Security Alerts
+
+**Tech Stack**
+
+`Python` `Scapy` `Flask` `MySQL`
+
+🔗 **Repository:** *(Add your GitHub link here)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏥 Hospital Dashboard
+
+Modern Hospital Management System.
+
+### ⚡ Features
+
+- Patient Management
+- Doctor Scheduling
+- Dashboard UI
+- Authentication
+- MERN Stack
+
+**Tech Stack**
+
+`React`
+
+`Node.js`
+
+`Express`
+
+`MongoDB`
+
+🔗 **Repository:** *(Add your GitHub link here)*
+
+</td>
+
+<td width="50%">
+
+## 🌍 Campus to Corporate Website
+
+Official Club Website
+
+### ⚡ Features
+
+- Student Portal
+- Event Management
+- Attendance
+- Resources
+- Responsive UI
+
+**Tech Stack**
+
+`React`
+
+`Node.js`
+
+`MongoDB`
+
+`Figma`
+
+🔗 **Repository:** *(Add your GitHub link here)*
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true&background=0d1117"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg">
+
+<img alt="snake"
+src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=matrix&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+<table>
+
+<tr>
+
+<td>
+
+✅ Cisco Networking Essentials
+
+</td>
+
+<td>
+
+✅ Introduction to Cybersecurity
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✅ Python Programming
+
+</td>
+
+<td>
+
+✅ Google Cloud Fundamentals
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✅ Linux Essentials
+
+</td>
+
+<td>
+
+🚀 More Coming Soon...
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ashfaqashu689@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashfaq-ahmed-m-b3a49a2a5/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
+</a>
+
+<a href="https://github.com/ashfaq-ahmed02">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,20:001122,50:00bfff,100:00ff99"/>
+
+</p>
+
+<h2 align="center">
+
+💚 "Learn • Build • Secure • Repeat"
+
+</h2>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
 
 Interests:
   Computer Networks
