@@ -149,159 +149,197 @@ Languages:
   JavaScript
   Python
   Java
-<!-- ========================================================= -->
+
+---
+
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,linux,git,github,vscode,figma&theme=dark"/>
+
+</div>
+
+---
+
+## 🌐 Computer Networking
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Packet%20Tracer-005073?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TCP/IP-111111?style=for-the-badge&logo=internetexplorer&logoColor=00FF41"/>
+
+<img src="https://img.shields.io/badge/DNS-111111?style=for-the-badge&logo=cloudflare&logoColor=00BFFF"/>
+
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💻 Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects
-<!-- ========================================================= -->
 
-<h2 align="center">⚡ Featured Projects ⚡</h2>
+<div align="center">
 
-<table>
+| 🚀 Project | Description | Stack |
+|------------|-------------|-------|
+| 🌐 **RuView WiFi Sensing** | AI-powered WiFi CSI sensing system with ESP32 for real-time human detection. | Python · ESP32 · AI |
+| 🛡 **Firewall Monitoring System** | Packet sniffing, firewall logs, security monitoring dashboard. | Python · Flask · Scapy |
+| 🏥 **Hospital Dashboard** | MERN-based hospital management dashboard. | React · Node.js · MongoDB |
+| 🌍 **Campus to Corporate Website** | Official club website with events, attendance, and announcements. | MERN · Figma |
+| 📊 **Power BI Dashboard** | Interactive business analytics dashboards and reports. | Power BI |
 
-<tr>
+</div>
 
-<td width="50%">
+---
 
-## 🌐 RuView WiFi Sensing
+# 🌍 Networking Lab
 
-AI-powered WiFi CSI sensing system.
+```text
+                    INTERNET
+                        │
+                        │
+                ┌───────▼────────┐
+                │     FIREWALL   │
+                └───────┬────────┘
+                        │
+                   ┌────▼────┐
+                   │ ROUTER  │
+                   └────┬────┘
+                        │
+              ┌─────────▼─────────┐
+              │      SWITCH       │
+              └───┬─────────┬─────┘
+                  │         │
+          ┌───────▼───┐   ┌─▼────────┐
+          │ Kali Linux│   │ Windows  │
+          └───────────┘   └──────────┘
+```
 
-### ⚡ Features
+---
 
-- ESP32 Integration
-- Real-Time WiFi CSI
-- Human Presence Detection
-- Live Dashboard
-- Python Backend
-- AI Analytics
+# 🔐 Cybersecurity Lab
 
-**Tech Stack**
+### 🛡 Current Learning
 
-`Python` `ESP32` `WebSocket` `AI` `Networking`
+✅ Computer Networking
 
-🔗 **Repository:** *(Add your GitHub link here)*
+✅ Linux Administration
 
-</td>
+✅ TCP/IP
 
-<td width="50%">
+✅ DNS
 
-## 🛡 Firewall Monitoring System
+✅ Wireshark
 
-Network traffic monitoring dashboard.
+✅ Ethical Hacking Basics
 
-### ⚡ Features
+✅ Firewall Development
 
-- Packet Inspection
-- Real-Time Logs
-- Flask Dashboard
-- SQLite / MySQL
-- IP Monitoring
-- Security Alerts
+✅ Python Automation
 
-**Tech Stack**
+✅ Web Security
 
-`Python` `Scapy` `Flask` `MySQL`
+---
 
-🔗 **Repository:** *(Add your GitHub link here)*
+# 📂 Current Mission
 
-</td>
+```bash
+> Current Objective
 
-</tr>
+✔ Build Networking Projects
 
-<tr>
+✔ Learn Cybersecurity
 
-<td width="50%">
+✔ Contribute to Open Source
 
-## 🏥 Hospital Dashboard
+✔ Master MERN Stack
 
-Modern Hospital Management System.
+✔ Build AI Integrated Applications
 
-### ⚡ Features
+✔ Become Network Security Engineer
+```
 
-- Patient Management
-- Doctor Scheduling
-- Dashboard UI
-- Authentication
-- MERN Stack
-
-**Tech Stack**
-
-`React`
-
-`Node.js`
-
-`Express`
-
-`MongoDB`
-
-🔗 **Repository:** *(Add your GitHub link here)*
-
-</td>
-
-<td width="50%">
-
-## 🌍 Campus to Corporate Website
-
-Official Club Website
-
-### ⚡ Features
-
-- Student Portal
-- Event Management
-- Attendance
-- Resources
-- Responsive UI
-
-**Tech Stack**
-
-`React`
-
-`Node.js`
-
-`MongoDB`
-
-`Figma`
-
-🔗 **Repository:** *(Add your GitHub link here)*
-
-</td>
-
-</tr>
-
-</table>
+---
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
 
-</p>
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 💻 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99"/>
 
-</p>
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=00bfff"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <picture>
 
@@ -311,72 +349,140 @@ srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/g
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg">
 
-<img alt="snake"
-src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg">
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg"/>
 
 </picture>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=matrix&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=matrix&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=4"/>
 
-</p>
+</div>
+
+---
+
+# 📅 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashfaq-ahmed02&theme=github_dark"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Overview
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashfaq-ahmed02&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashfaq-ahmed02&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashfaq-ahmed02&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🚀 Development Workflow
+
+```text
+             💡 IDEA
+                │
+                ▼
+          🎨 UI / UX DESIGN
+                │
+                ▼
+        💻 FRONTEND DEVELOPMENT
+                │
+                ▼
+        ⚙ BACKEND DEVELOPMENT
+                │
+                ▼
+        🗄 DATABASE INTEGRATION
+                │
+                ▼
+       🛡 SECURITY TESTING
+                │
+                ▼
+        🚀 DEPLOYMENT
+                │
+                ▼
+         🔄 CONTINUOUS IMPROVEMENT
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 10+ Real-World Projects
+- 🌐 Master Computer Networking
+- 🔐 Learn Advanced Cybersecurity
+- 🐧 Become Proficient in Linux
+- ☁️ Learn Cloud Computing
+- 🤖 Build AI-Powered Applications
+- 📱 Develop Cross-Platform Applications
+- 🌟 Contribute to Open Source
+- 🎓 Earn Professional Certifications
+- 🚀 Secure a Software/Network Engineer Role
+
+---
 
 ---
 
 # 📜 Certifications
 
+<div align="center">
+
+| 🏆 Certification | Platform | Status |
+|:-----------------|:--------:|:------:|
+| Cisco Networking Essentials | Cisco | ✅ Completed |
+| Introduction to Cybersecurity | Cisco | ✅ Completed |
+| Python Programming | Infosys Springboard | ✅ Completed |
+| Google Cloud Fundamentals | Google Cloud | ✅ Completed |
+| Linux Essentials | Linux Foundation | 🚀 In Progress |
+| Ethical Hacking | TryHackMe | 🚀 Learning |
+| CCNA | Cisco | 🎯 Target 2026 |
+
+</div>
+
+---
+
+# 🏅 Leadership & Experience
+
 <table>
 
 <tr>
 
-<td>
+<td width="50%">
 
-✅ Cisco Networking Essentials
+## 👨‍💼 Leadership
 
-</td>
-
-<td>
-
-✅ Introduction to Cybersecurity
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Python Programming
+- 🏆 President — Campus to Corporate (C3)
+- 🎤 Technical Session Speaker
+- 👨‍🏫 Student Mentor
+- 💡 Event Organizer
+- 🤝 Team Leader
 
 </td>
 
-<td>
+<td width="50%">
 
-✅ Google Cloud Fundamentals
+## 💼 Experience
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Linux Essentials
-
-</td>
-
-<td>
-
-🚀 More Coming Soon...
+- 🎨 UI/UX Designer
+- 💻 MERN Stack Developer
+- 🌐 Computer Networking Learner
+- 🔐 Cybersecurity Enthusiast
+- 🎬 Video Editor & Content Creator
 
 </td>
 
@@ -386,9 +492,55 @@ src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/gith
 
 ---
 
+# 🎓 Education
+
+```text
+🏫 Abdul Hakeem College of Engineering & Technology
+
+Degree      : B.E Computer Science & Engineering
+
+Year        : Final Year
+
+Role        : C3 President
+
+Focus Areas :
+
+✔ Computer Networking
+
+✔ Cybersecurity
+
+✔ Full Stack Development
+
+✔ Linux
+
+✔ Cloud Computing
+```
+
+---
+
+# 🌱 Currently Learning
+
+```bash
+> roadmap.sh
+
+█████████████████████░░░░░░  Networking
+
+██████████████████░░░░░░░░░  Linux
+
+████████████████░░░░░░░░░░░  Cybersecurity
+
+██████████████░░░░░░░░░░░░░  MERN Stack
+
+████████████░░░░░░░░░░░░░░░  Cloud Computing
+
+██████████░░░░░░░░░░░░░░░░░  AI Integration
+```
+
+---
+
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:ashfaqashu689@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
@@ -402,34 +554,76 @@ src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/gith
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 💚 Profile Views
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,20:001122,50:00bfff,100:00ff99"/>
+<div align="center">
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=Profile+Views&style=for-the-badge&color=00ff99"/>
 
-<h2 align="center">
+</div>
 
-💚 "Learn • Build • Secure • Repeat"
+---
 
-</h2>
+# 💭 Quote
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+> **"Secure the Network. Build the Future. Never Stop Learning."**
 
-</p>
+</div>
 
-Interests:
-  Computer Networks
-  Cybersecurity
-  Linux
-  Web Development
-  Open Source
+---
+
+# 💻 Terminal Status
+
+```bash
+> whoami
+
+Ashfaq Ahmed
+
+> role
+
+Computer Network Engineer
+
+> status
+
+Building secure and scalable applications...
+
+> currently_learning
+
+Networking
+Cybersecurity
+Linux
+Cloud
+AI
+
+> life
+
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Secure();
+
+    Repeat();
+
+}
 ```
 
 ---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile ⭐
+
+### 💚 If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,30:001f3f,60:00bfff,100:00ff99"/>
+
+</div>
