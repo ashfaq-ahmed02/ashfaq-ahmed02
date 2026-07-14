@@ -1,629 +1,207 @@
-<!-- ========================================================= -->
-<!--                  MATRIX CYBER BANNER                      -->
-<!-- ========================================================= -->
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:001122,45:003366,70:00bfff,100:00ff99&text=ASHFAQ%20AHMED&fontSize=55&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=Computer%20Network%20%7C%20C3%20President%20%7C%20Final%20Year%20CSE&descAlignY=60&descSize=22"/>
-</p>
-
-<!-- ========================================================= -->
-<!--                  TYPING ANIMATION                         -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Computer+Networking+Engineer;Cybersecurity+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Python+Developer;Building+Real+World+Projects;Always+Learning+Always+Growing"/>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                    SOCIAL BADGES                          -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<a href="mailto:ashfaqashu689@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashfaq-ahmed-m-b3a49a2a5/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
-</a>
-
-<a href="https://github.com/ashfaq-ahmed02">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                 PROFILE VIEWS                             -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💻 Terminal
-
-```bash
-> whoami
-
-Ashfaq Ahmed
-
-> role
-
-Computer Network Engineer
-Cybersecurity Enthusiast
-MERN Stack Developer
-UI/UX Designer
-
-> organization
-
-President @ Campus to Corporate (C3)
-
-> education
-
-Final Year Computer Science Engineering
-
-> focus
-
-Computer Networking
-Cybersecurity
-Linux
-Python
-Web Development
-
-> motto
-
-Learn → Build → Secure → Repeat
-```
-
----
-
-# 👨‍💻 About Me
-
-<img align="right" width="420" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
-Hello 👋
-
-I'm **Ashfaq Ahmed**, a passionate **Computer Science Engineering** student with a strong interest in **Computer Networking**, **Cybersecurity**, and **Full-Stack Web Development**.
-
-I enjoy designing secure systems, developing scalable web applications, and continuously expanding my technical knowledge through real-world projects.
-
-### 🔥 Current Focus
-
-- 🌐 Computer Networking
-- 🔐 Cybersecurity
-- 🐧 Linux Administration
-- 💻 MERN Stack Development
-- 🎨 UI/UX Design
-- 🤖 Python Automation
-- 🚀 Open Source Learning
-- 👨‍💼 Leading the Campus to Corporate (C3) Club
-
----
-
-# 🚀 What I Do
-
-✔ Build Modern Web Applications
-
-✔ Learn Network Security
-
-✔ Practice Ethical Hacking
-
-✔ Develop MERN Projects
-
-✔ Design Professional UI/UX
-
-✔ Explore Linux
-
-✔ Build Automation Tools
-
-✔ Lead Student Tech Communities
-
----
-
----
-
-# ⚡ Quick Facts
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓-Final%20Year%20CSE-00ff99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/👨‍💼-C3%20President-00bfff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌐-Computer%20Networking-00ff99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🔐-Cybersecurity-00bfff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💻-MERN%20Developer-00ff99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🎨-UI%2FUX%20Designer-00bfff?style=for-the-badge"/>
-
-</div>
-
----
-
----
-
-# 🛠 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,linux,git,github,vscode,figma&theme=dark"/>
-
-</div>
-
----
-
-## 🌐 Computer Networking
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Packet%20Tracer-005073?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TCP/IP-111111?style=for-the-badge&logo=internetexplorer&logoColor=00FF41"/>
-
-<img src="https://img.shields.io/badge/DNS-111111?style=for-the-badge&logo=cloudflare&logoColor=00BFFF"/>
-
-</p>
-
----
-
-## 🔐 Cybersecurity
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-## 💻 Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | Description | Stack |
-|------------|-------------|-------|
-| 🌐 **RuView WiFi Sensing** | AI-powered WiFi CSI sensing system with ESP32 for real-time human detection. | Python · ESP32 · AI |
-| 🛡 **Firewall Monitoring System** | Packet sniffing, firewall logs, security monitoring dashboard. | Python · Flask · Scapy |
-| 🏥 **Hospital Dashboard** | MERN-based hospital management dashboard. | React · Node.js · MongoDB |
-| 🌍 **Campus to Corporate Website** | Official club website with events, attendance, and announcements. | MERN · Figma |
-| 📊 **Power BI Dashboard** | Interactive business analytics dashboards and reports. | Power BI |
-
-</div>
-
----
-
-# 🌍 Networking Lab
-
-```text
-                    INTERNET
-                        │
-                        │
-                ┌───────▼────────┐
-                │     FIREWALL   │
-                └───────┬────────┘
-                        │
-                   ┌────▼────┐
-                   │ ROUTER  │
-                   └────┬────┘
-                        │
-              ┌─────────▼─────────┐
-              │      SWITCH       │
-              └───┬─────────┬─────┘
-                  │         │
-          ┌───────▼───┐   ┌─▼────────┐
-          │ Kali Linux│   │ Windows  │
-          └───────────┘   └──────────┘
-```
-
----
-
-# 🔐 Cybersecurity Lab
-
-### 🛡 Current Learning
-
-✅ Computer Networking
-
-✅ Linux Administration
-
-✅ TCP/IP
-
-✅ DNS
-
-✅ Wireshark
-
-✅ Ethical Hacking Basics
-
-✅ Firewall Development
-
-✅ Python Automation
-
-✅ Web Security
-
----
-
-# 📂 Current Mission
-
-```bash
-> Current Objective
-
-✔ Build Networking Projects
-
-✔ Learn Cybersecurity
-
-✔ Contribute to Open Source
-
-✔ Master MERN Stack
-
-✔ Build AI Integrated Applications
-
-✔ Become Network Security Engineer
-```
-
----
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=00bfff"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg">
-
-<img alt="Snake Animation"
-src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=matrix&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=4"/>
-
-</div>
-
----
-
-# 📅 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashfaq-ahmed02&theme=github_dark"/>
-
-</div>
-
----
-
-# ⚡ GitHub Overview
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashfaq-ahmed02&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashfaq-ahmed02&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashfaq-ahmed02&theme=github_dark"/>
-
-</div>
-
----
-
-# 🚀 Development Workflow
-
-```text
-             💡 IDEA
-                │
-                ▼
-          🎨 UI / UX DESIGN
-                │
-                ▼
-        💻 FRONTEND DEVELOPMENT
-                │
-                ▼
-        ⚙ BACKEND DEVELOPMENT
-                │
-                ▼
-        🗄 DATABASE INTEGRATION
-                │
-                ▼
-       🛡 SECURITY TESTING
-                │
-                ▼
-        🚀 DEPLOYMENT
-                │
-                ▼
-         🔄 CONTINUOUS IMPROVEMENT
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 10+ Real-World Projects
-- 🌐 Master Computer Networking
-- 🔐 Learn Advanced Cybersecurity
-- 🐧 Become Proficient in Linux
-- ☁️ Learn Cloud Computing
-- 🤖 Build AI-Powered Applications
-- 📱 Develop Cross-Platform Applications
-- 🌟 Contribute to Open Source
-- 🎓 Earn Professional Certifications
-- 🚀 Secure a Software/Network Engineer Role
-
----
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| 🏆 Certification | Platform | Status |
-|:-----------------|:--------:|:------:|
-| Cisco Networking Essentials | Cisco | ✅ Completed |
-| Introduction to Cybersecurity | Cisco | ✅ Completed |
-| Python Programming | Infosys Springboard | ✅ Completed |
-| Google Cloud Fundamentals | Google Cloud | ✅ Completed |
-| Linux Essentials | Linux Foundation | 🚀 In Progress |
-| Ethical Hacking | TryHackMe | 🚀 Learning |
-| CCNA | Cisco | 🎯 Target 2026 |
-
-</div>
-
----
-
-# 🏅 Leadership & Experience
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 👨‍💼 Leadership
-
-- 🏆 President — Campus to Corporate (C3)
-- 🎤 Technical Session Speaker
-- 👨‍🏫 Student Mentor
-- 💡 Event Organizer
-- 🤝 Team Leader
-
-</td>
-
-<td width="50%">
-
-## 💼 Experience
-
-- 🎨 UI/UX Designer
-- 💻 MERN Stack Developer
-- 🌐 Computer Networking Learner
-- 🔐 Cybersecurity Enthusiast
-- 🎬 Video Editor & Content Creator
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎓 Education
-
-```text
-🏫 Abdul Hakeem College of Engineering & Technology
-
-Degree      : B.E Computer Science & Engineering
-
-Year        : Final Year
-
-Role        : C3 President
-
-Focus Areas :
-
-✔ Computer Networking
-
-✔ Cybersecurity
-
-✔ Full Stack Development
-
-✔ Linux
-
-✔ Cloud Computing
-```
-
----
-
-# 🌱 Currently Learning
-
-```bash
-> roadmap.sh
-
-█████████████████████░░░░░░  Networking
-
-██████████████████░░░░░░░░░  Linux
-
-████████████████░░░░░░░░░░░  Cybersecurity
-
-██████████████░░░░░░░░░░░░░  MERN Stack
-
-████████████░░░░░░░░░░░░░░░  Cloud Computing
-
-██████████░░░░░░░░░░░░░░░░░  AI Integration
-```
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:ashfaqashu689@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashfaq-ahmed-m-b3a49a2a5/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
-</a>
-
-<a href="https://github.com/ashfaq-ahmed02">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💚 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=Profile+Views&style=for-the-badge&color=00ff99"/>
-
-</div>
-
----
-
-# 💭 Quote
-
-<div align="center">
-
-> **"Secure the Network. Build the Future. Never Stop Learning."**
-
-</div>
-
----
-
-# 💻 Terminal Status
-
-```bash
-> whoami
-
-Ashfaq Ahmed
-
-> role
-
-Computer Network Engineer
-
-> status
-
-Building secure and scalable applications...
-
-> currently_learning
-
-Networking
-Cybersecurity
-Linux
-Cloud
-AI
-
-> life
-
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Secure();
-
-    Repeat();
-
-}
-```
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile ⭐
-
-### 💚 If you like my work, consider giving a ⭐ to my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,30:001f3f,60:00bfff,100:00ff99"/>
-
-</div>
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <clipPath id="canvasClip"><rect x="0" y="0" width="1180" height="610" rx="24"/></clipPath>
+  <clipPath id="leftClip"><rect x="24" y="24" width="420" height="562" rx="20"/></clipPath>
+  <clipPath id="rightClip"><rect x="470" y="24" width="686" height="562" rx="20"/></clipPath>
+
+  <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#10B981"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+
+  <linearGradient id="borderShimmer" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 590 305;360 590 305" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+
+  <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blob3" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#10B981" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="noiseF" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.025 0"/>
+  </filter>
+
+  <clipPath id="typeClip0"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" values="0;226;226;0" keyTimes="0;0.02;0.23;0.25" dur="20s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="typeClip1"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" values="0;250;250;0" keyTimes="0;0.02;0.23;0.25" dur="20s" begin="4s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="typeClip2"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" values="0;300;300;0" keyTimes="0;0.02;0.23;0.25" dur="20s" begin="8s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="typeClip3"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" values="0;180;180;0" keyTimes="0;0.02;0.23;0.25" dur="20s" begin="12s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="typeClip4"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" values="0;190;190;0" keyTimes="0;0.02;0.23;0.25" dur="20s" begin="16s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+
+<style>
+  .mono { font-family: 'Consolas','Monaco','Courier New',monospace; }
+  .pill:hover rect { filter: url(#glow); }
+</style>
+
+<g clip-path="url(#canvasClip)">
+  <rect x="0" y="0" width="1180" height="610" fill="#030712"/>
+
+  <circle cx="140" cy="120" r="220" fill="url(#blob1)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;30 20;0 0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="150" r="260" fill="url(#blob2)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-25 25;0 0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="560" r="240" fill="url(#blob3)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;20 -20;0 0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="0" y="0" width="1180" height="610" filter="url(#noiseF)"/>
+
+  <g opacity="0.7">
+    <circle cx="90" cy="90" r="1.6" fill="#22D3EE"><animateMotion path="M0,0 C40,-30 80,30 20,80" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="500" r="1.8" fill="#7C3AED"><animateMotion path="M0,0 C-50,20 -20,-40 -70,-10" dur="14s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="60" r="1.4" fill="#10B981"><animateMotion path="M0,0 C30,40 -30,60 10,90" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="300" r="1.5" fill="#22D3EE"><animateMotion path="M0,0 C-40,-20 40,-40 0,-70" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="550" r="1.6" fill="#7C3AED"><animateMotion path="M0,0 C25,-25 55,10 15,45" dur="9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x="24" y="24" width="420" height="562" rx="20" fill="#0F172A" fill-opacity="0.55"/>
+  <rect x="470" y="24" width="686" height="562" rx="20" fill="#0F172A" fill-opacity="0.55"/>
+  <rect x="24" y="24" width="420" height="562" rx="20" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+  <rect x="470" y="24" width="686" height="562" rx="20" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#borderShimmer)" stroke-width="1.5"/>
+
+  <!-- LEFT: ASCII portrait -->
+  <g clip-path="url(#leftClip)">
+    <g class="mono" font-size="15" fill="url(#accentGrad)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5s" repeatCount="indefinite"/>
+      <text x="55" y="90" opacity="0" xml:space="preserve">   ┌─────────────┐<animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="112" opacity="0" xml:space="preserve">   │   ◕     ◕   │<animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="134" opacity="0" xml:space="preserve">   │      ▽      │<animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="156" opacity="0" xml:space="preserve">   │   ‾‾‾‾‾‾‾   │<animate attributeName="opacity" values="0;1" begin="1.1s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="178" opacity="0" xml:space="preserve">   └───┬─────┬───┘<animate attributeName="opacity" values="0;1" begin="1.4s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="200" opacity="0" xml:space="preserve">       │     │</text>
+      <text x="55" y="200" opacity="0"><animate attributeName="opacity" values="0;1" begin="1.7s" dur="0.4s" fill="freeze"/>       │     │</text>
+      <text x="55" y="222" opacity="0" xml:space="preserve">  ┌────┴─────┴────┐<animate attributeName="opacity" values="0;1" begin="2.0s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="244" opacity="0" xml:space="preserve">  │   &lt; / &gt;  DEV   │<animate attributeName="opacity" values="0;1" begin="2.3s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="266" opacity="0" xml:space="preserve">  └────────────────┘<animate attributeName="opacity" values="0;1" begin="2.6s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="288" opacity="0" xml:space="preserve">        ║      ║<animate attributeName="opacity" values="0;1" begin="2.9s" dur="0.4s" fill="freeze"/></text>
+      <text x="55" y="310" opacity="0" xml:space="preserve">       ═╩═    ═╩═<animate attributeName="opacity" values="0;1" begin="3.2s" dur="0.4s" fill="freeze"/></text>
+    </g>
+    <rect x="24" y="90" width="420" height="14" fill="url(#scanGrad)">
+      <animate attributeName="y" values="80;560;80" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="60" y="330" width="9" height="16" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="44" y="430" class="mono" font-size="12" fill="#94A3B8" opacity="0">
+      root@dev:~$ whoami
+      <animate attributeName="opacity" values="0;1" begin="3.6s" dur="0.5s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- RIGHT: terminal -->
+  <g clip-path="url(#rightClip)">
+    <rect x="470" y="24" width="686" height="36" fill="#0F172A"/>
+    <circle cx="496" cy="42" r="6" fill="#EF4444"/>
+    <circle cx="518" cy="42" r="6" fill="#F59E0B"/>
+    <circle cx="540" cy="42" r="6" fill="#10B981"/>
+    <text x="1100" y="47" text-anchor="end" class="mono" font-size="12" fill="#94A3B8">bash — profile</text>
+
+    <text x="510" y="105" class="mono" font-size="26" fill="#F8FAFC" opacity="0">Hi 👋
+      <animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.6s" fill="freeze"/>
+    </text>
+    <text x="510" y="140" class="mono" font-size="22" fill="url(#accentGrad)" opacity="0">I'm &#123;NAME&#125;
+      <animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.6s" fill="freeze"/>
+    </text>
+
+    <g class="mono" font-size="19" fill="#22D3EE">
+      <text x="510" y="180" clip-path="url(#typeClip0)">Frontend Engineer</text>
+      <text x="510" y="180" clip-path="url(#typeClip1)">Full Stack Developer</text>
+      <text x="510" y="180" clip-path="url(#typeClip2)">Open Source Contributor</text>
+      <text x="510" y="180" clip-path="url(#typeClip3)">UI Engineer</text>
+      <text x="510" y="180" clip-path="url(#typeClip4)">AI Enthusiast</text>
+      <rect x="510" y="164" width="9" height="20" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g class="mono" font-size="14" fill="#94A3B8">
+      <g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.5s" fill="freeze"/>
+        <text x="510" y="222">🌍  Location: Your City, Country</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.9s" dur="0.5s" fill="freeze"/>
+        <text x="510" y="248">🎓  Education: Your Degree, University</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" begin="2.2s" dur="0.5s" fill="freeze"/>
+        <text x="510" y="274">🚀  Current Focus: What you're building</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" begin="2.5s" dur="0.5s" fill="freeze"/>
+        <text x="510" y="300">🔗  Portfolio: yourportfolio.dev</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" begin="2.8s" dur="0.5s" fill="freeze"/>
+        <text x="510" y="326">✉️  Email: you@example.com</text></g>
+    </g>
+
+    <text x="510" y="365" class="mono" font-size="13" fill="#F8FAFC" opacity="0.85">Skills</text>
+    <g class="mono" font-size="12" font-weight="bold">
+      <!-- row 1 -->
+      <g class="pill"><rect x="510" y="378" width="66" height="26" rx="13" fill="#0F172A" stroke="#7C3AED" stroke-width="1" filter="url(#softGlow)"/><text x="543" y="395" text-anchor="middle" fill="#F8FAFC">React</text></g>
+      <g class="pill"><rect x="584" y="378" width="70" height="26" rx="13" fill="#0F172A" stroke="#22D3EE" stroke-width="1" filter="url(#softGlow)"/><text x="619" y="395" text-anchor="middle" fill="#F8FAFC">Next.js</text></g>
+      <g class="pill"><rect x="662" y="378" width="76" height="26" rx="13" fill="#0F172A" stroke="#10B981" stroke-width="1" filter="url(#softGlow)"/><text x="700" y="395" text-anchor="middle" fill="#F8FAFC">Node.js</text></g>
+      <g class="pill"><rect x="746" y="378" width="90" height="26" rx="13" fill="#0F172A" stroke="#7C3AED" stroke-width="1" filter="url(#softGlow)"/><text x="791" y="395" text-anchor="middle" fill="#F8FAFC">TypeScript</text></g>
+      <g class="pill"><rect x="844" y="378" width="80" height="26" rx="13" fill="#0F172A" stroke="#22D3EE" stroke-width="1" filter="url(#softGlow)"/><text x="884" y="395" text-anchor="middle" fill="#F8FAFC">Tailwind</text></g>
+      <!-- row 2 -->
+      <g class="pill"><rect x="510" y="412" width="72" height="26" rx="13" fill="#0F172A" stroke="#10B981" stroke-width="1" filter="url(#softGlow)"/><text x="546" y="429" text-anchor="middle" fill="#F8FAFC">Python</text></g>
+      <g class="pill"><rect x="590" y="412" width="72" height="26" rx="13" fill="#0F172A" stroke="#7C3AED" stroke-width="1" filter="url(#softGlow)"/><text x="626" y="429" text-anchor="middle" fill="#F8FAFC">Docker</text></g>
+      <g class="pill"><rect x="670" y="412" width="82" height="26" rx="13" fill="#0F172A" stroke="#22D3EE" stroke-width="1" filter="url(#softGlow)"/><text x="711" y="429" text-anchor="middle" fill="#F8FAFC">Postgres</text></g>
+      <g class="pill"><rect x="760" y="412" width="60" height="26" rx="13" fill="#0F172A" stroke="#10B981" stroke-width="1" filter="url(#softGlow)"/><text x="790" y="429" text-anchor="middle" fill="#F8FAFC">AWS</text></g>
+      <g class="pill"><rect x="828" y="412" width="52" height="26" rx="13" fill="#0F172A" stroke="#7C3AED" stroke-width="1" filter="url(#softGlow)"/><text x="854" y="429" text-anchor="middle" fill="#F8FAFC">Git</text></g>
+      <g class="pill"><rect x="888" y="412" width="66" height="26" rx="13" fill="#0F172A" stroke="#22D3EE" stroke-width="1" filter="url(#softGlow)"/><text x="921" y="429" text-anchor="middle" fill="#F8FAFC">Figma</text></g>
+    </g>
+
+    <line x1="510" y1="465" x2="1122" y2="465" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+
+    <g class="mono" font-size="13" font-weight="bold">
+      <circle cx="530" cy="500" r="18" fill="#0F172A" stroke="#7C3AED" stroke-width="1.2" filter="url(#softGlow)">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <text x="530" y="504" text-anchor="middle" fill="#F8FAFC" font-size="11">GH</text>
+
+      <circle cx="590" cy="500" r="18" fill="#0F172A" stroke="#22D3EE" stroke-width="1.2" filter="url(#softGlow)">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="590" y="504" text-anchor="middle" fill="#F8FAFC" font-size="11">in</text>
+
+      <circle cx="650" cy="500" r="18" fill="#0F172A" stroke="#10B981" stroke-width="1.2" filter="url(#softGlow)">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="650" y="504" text-anchor="middle" fill="#F8FAFC" font-size="11">X</text>
+
+      <circle cx="710" cy="500" r="18" fill="#0F172A" stroke="#7C3AED" stroke-width="1.2" filter="url(#softGlow)">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="710" y="504" text-anchor="middle" fill="#F8FAFC" font-size="13">🔗</text>
+    </g>
+  </g>
+</g>
+</svg>
