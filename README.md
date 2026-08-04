@@ -1,39 +1,35 @@
-<!-- ========================================================= -->
-<!--                    MATRIX CYBER BANNER                    -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--               ASHFAQ AHMED GITHUB README              -->
+<!-- ===================================================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:001122,45:003366,70:00bfff,100:00ff99&text=ASHFAQ%20AHMED&fontSize=55&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=Computer%20Network%20Engineer%20|%20Cybersecurity%20Enthusiast%20|%20C3%20President&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:001F3F,60:00BFFF,100:00FF99&text=ASHFAQ%20AHMED&fontSize=52&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=Network%20Security%20Engineer%20|%20Cybersecurity%20Enthusiast%20|%20C3%20President&descAlignY=60&descSize=22"/>
 </p>
-
----
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Computer+Network+Engineer;Cybersecurity+Enthusiast;React+Developer;Python+Developer;UI%2FUX+Designer;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Network+Security+Engineer;Cybersecurity+Enthusiast;Python+Developer;React+Developer;UI%2FUX+Designer;Always+Learning+Always+Building"/>
 </p>
-
----
 
 <p align="center">
 
 <a href="mailto:ashfaqashu689@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF99"/>
+</a>
+
+<a href="https://github.com/ashfaq-ahmed02">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ashfaq-ahmed-m-b3a49a2a5">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
 
-<a href="https://github.com/ashfaq-ahmed02">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=PROFILE+VIEWS&style=for-the-badge&color=00ff99"/>
+
 </p>
 
 ---
@@ -47,7 +43,7 @@ Ashfaq Ahmed
 
 > role
 
-Computer Network Engineer
+Network Security Engineer
 Cybersecurity Enthusiast
 React Developer
 
@@ -57,14 +53,16 @@ President @ Campus to Corporate (C3)
 
 > education
 
-B.E Computer Science Engineering (2023-2027)
+B.E Computer Science Engineering
+2023 - 2027
 
-> focus
+> current_focus
 
-Computer Networking
+Networking
 Linux
-Cybersecurity
 Python
+Cybersecurity
+Cloud
 React
 
 > motto
@@ -76,83 +74,61 @@ Learn → Build → Secure → Repeat
 
 # 👨‍💻 About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Hi 👋
+Hi, I'm **Ashfaq Ahmed** 👋
 
-I'm **Ashfaq Ahmed**, a passionate Computer Science Engineering student with a strong interest in:
+A passionate **Computer Science Engineering** student who enjoys building secure systems, learning modern technologies, and solving real-world problems.
 
-- 🌐 Computer Networking
-- 🔐 Cybersecurity
-- 💻 React Development
-- 🐍 Python Development
+### 🌐 Interests
+
+- 🔐 Network Security
+- 🌍 Computer Networking
+- 🐍 Python
+- ⚛ React
 - 🎨 UI/UX Design
-
-I enjoy building secure systems, modern web applications, networking projects, and continuously learning new technologies.
+- ☁ Cloud Computing
+- 🐧 Linux
+- 🛡 Ethical Hacking
 
 ---
 
 # 🚀 What I Do
 
-✔ Build Modern Web Applications
-
-✔ Learn Network Security
-
-✔ Practice Ethical Hacking
-
-✔ Build Networking Projects
-
-✔ Design UI/UX Interfaces
-
-✔ Explore Linux
-
-✔ Learn Cloud Technologies
-
-✔ Lead Technical Communities
-
----
-
-# ⚡ Quick Facts
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓-Computer%20Science-00ff99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/👨‍💼-C3%20President-00bfff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌐-Networking-00ff99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🔐-Cybersecurity-00bfff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💻-React-00ff99?style=for-the-badge"/>
-
-</div>
+- 🌐 Build Networking Projects
+- 🔐 Learn Cybersecurity
+- 💻 Develop Modern Web Applications
+- 🐍 Build Python Automation
+- 🎨 Design Clean UI/UX
+- 🐧 Explore Linux
+- ☁ Learn Cloud Technologies
+- 👨‍🏫 Mentor Students
+- 🎤 Deliver Technical Sessions
+- 🤝 Lead the Campus to Corporate (C3) Community
 
 ---
 
 # 🛠 Tech Arsenal
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,python,react,fastapi,mysql,figma,vscode,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,react,html,css,js,mysql,git,github,linux,figma,vscode,bash&theme=dark"/>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Trae-000000?style=for-the-badge"/>
-
-</div>
+</p>
 
 ---
 
-## 🌐 Computer Networking
+# 🌐 Networking
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco"/>
 
 <img src="https://img.shields.io/badge/TCP/IP-111111?style=for-the-badge"/>
 
@@ -160,31 +136,21 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 <img src="https://img.shields.io/badge/Packet%20Tracer-005073?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
 </p>
 
 ---
 
-## 🔐 Cybersecurity
+# 🔐 Cybersecurity
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux"/>
 
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
 
-</p>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp"/>
 
----
-
-## 💻 Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
 
 </p>
 
@@ -194,282 +160,280 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 | 🚀 Project | Description | Tech |
 |------------|-------------|------|
-| 🛡 Firewall Monitoring System | Real-time firewall monitoring dashboard with analytics | Python • Flask • MySQL |
-| 🌐 RuView WiFi Sensing | Human activity detection using WiFi CSI | Python • ESP32 |
-| 🏥 Hospital Dashboard | Responsive Hospital Management Dashboard | React • MySQL |
-| 🎓 Campus to Corporate Website | Official C3 club website | React • Figma |
-| 📊 Power BI Dashboard | Interactive business analytics | Power BI |
+| 🛡 Firewall Monitoring System | Real-time firewall monitoring dashboard | Python • Flask • MySQL |
+| 📡 WiFi CSI Sensing | Human activity detection using ESP32 | Python |
+| 🎓 Campus to Corporate Website | Official C3 Website | React • Tailwind |
+| 🏥 Hospital Dashboard | Responsive Hospital Dashboard | React |
+| 📊 Power BI Dashboard | Business Analytics Dashboard | Power BI |
+
+---
+
+# 💻 Current Lab
+
+```text
+                  INTERNET
+                      │
+               🛡 FIREWALL
+                      │
+                 🌐 ROUTER
+                      │
+                 🔀 SWITCH
+               ╱            ╲
+         💻 Kali Linux    🖥 Windows
+```
+
+---
+
+# 🎯 Current Learning
+
+```text
+███████████████████████░░░ Networking
+
+████████████████████░░░░░ Linux
+
+██████████████████░░░░░░░ Cybersecurity
+
+█████████████████░░░░░░░░ Python
+
+████████████████░░░░░░░░░ React
+
+███████████████░░░░░░░░░░ Cloud
+```
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 💻 Most Used Languages
 
-<div align="center">
+<p align="center">
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/ashfaq-ahmed02/ashfaq-ahmed02/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
+</p>
 
 ---
 
-# 🌐 Networking Lab
+# ⚡ Skill Progress
 
-```text
-                    INTERNET
-                        │
-                        ▼
-                 ┌────────────┐
-                 │ FIREWALL   │
-                 └─────┬──────┘
-                       │
-                  ┌────▼────┐
-                  │ ROUTER  │
-                  └────┬────┘
-                       │
-               ┌───────▼────────┐
-               │    SWITCH      │
-               └───┬────────┬───┘
-                   │        │
-            ┌──────▼───┐ ┌──▼────────┐
-            │ Kali Linux│ │ Windows   │
-            └───────────┘ └───────────┘
-```
-
----
-
-# 🔐 Current Learning
-
-```text
-✔ Computer Networking
-
-✔ Linux
-
-✔ TCP/IP
-
-✔ DNS
-
-✔ Wireshark
-
-✔ Python
-
-✔ React
-
-✔ MySQL
-
-✔ Ethical Hacking
-```
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| 🏆 Certification | Platform | Status |
-|:-----------------|:--------:|:------:|
-| Computer Network: A Core Fundamentals of Computer Networking | Self Learning | ✅ Completed |
-| Linux Essentials | Linux Foundation | 🎯 Target 2026 |
-| Ethical Hacking | TryHackMe | 🎯 Target 2026 |
-| CCNA | Cisco | 🎯 Target 2026 |
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-```bash
-> roadmap.sh
-
-█████████████████████░░░ Networking
-
-███████████████████░░░░░ Linux
-
-██████████████████░░░░░░ Cybersecurity
-
-████████████████░░░░░░░ React
-
-███████████████░░░░░░░░ MySQL
-
-██████████████░░░░░░░░░ Python
-```
-
----
-
-# 🏅 Leadership & Experience
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 👨‍💼 Leadership
-
-- 🏆 President — Campus to Corporate (C3)
-- 🎤 Technical Session Speaker
-- 👨‍🏫 Student Mentor
-- 💡 Event Organizer
-- 🤝 Team Leader
-
-</td>
-
-<td width="50%">
-
-## 💼 Experience
-
-- 🌐 Computer Networking
-- 🔐 Cybersecurity
-- 💻 React Developer
-- 🐍 Python Developer
-- 🎨 UI/UX Designer
-
-</td>
-
-</tr>
-
-</table>
+| Skill | Progress |
+|--------|----------|
+| 🌐 Networking | ██████████ 90% |
+| 🐧 Linux | ████████░░ 80% |
+| 🔐 Cybersecurity | ███████░░░ 70% |
+| 🐍 Python | ███████░░░ 70% |
+| ⚛ React | ██████░░░░ 60% |
+| ☁ Cloud | █████░░░░░ 50% |
 
 ---
 
 # 🎓 Education
 
 ```text
-🏫 Abdul Hakeem College of Engineering & Technology
+🏫 C. Abdul Hakeem College of Engineering & Technology
 
-Degree : B.E Computer Science & Engineering
+🎓 Degree
 
-Duration : 2023 - 2027
+Bachelor of Engineering
 
-Role : President - Campus to Corporate (C3)
+Computer Science & Engineering
 
-Focus Areas
+📅 Duration
+
+2023 - 2027
+
+⭐ Current Role
+
+President
+Campus to Corporate (C3)
+
+📚 Focus
 
 ✔ Computer Networking
 
 ✔ Cybersecurity
 
-✔ React Development
+✔ Linux
 
 ✔ Python
 
-✔ Linux
+✔ React
+
+✔ Cloud Computing
 ```
 
 ---
 
-# 📂 Current Mission
+# 👨‍💼 Leadership
+
+| Position | Organization |
+|----------|--------------|
+| 👑 President | Campus to Corporate (C3) |
+| 🎤 Technical Session Speaker | C3 |
+| 👨‍🏫 Student Mentor | C3 |
+| 🤝 Team Leader | College Community |
+| 💡 Event Organizer | Workshops & Technical Events |
+
+---
+
+# 📜 Certifications
+
+| Certification | Platform | Status |
+|--------------|----------|--------|
+| Computer Networking Fundamentals | Self Learning | ✅ Completed |
+| Linux Essentials | Linux Foundation | 🎯 Planned |
+| CCNA | Cisco | 🎯 In Progress |
+| Ethical Hacking | TryHackMe | 🎯 In Progress |
+| Network Security | Cisco Skills for All | 🎯 Planned |
+
+---
+
+# 🎯 2026 Goals
 
 ```bash
-> current_objective
+> goals
 
 ✔ Master Computer Networking
-
-✔ Master Linux
-
-✔ Learn Advanced Cybersecurity
-
-✔ Build Real-World React Projects
-
-✔ Build Python Automation Projects
 
 ✔ Crack CCNA
 
 ✔ Become a Network Security Engineer
+
+✔ Learn Advanced Linux
+
+✔ Master Wireshark
+
+✔ Master Nmap
+
+✔ Complete TryHackMe Learning Paths
+
+✔ Build Python Automation Tools
+
+✔ Build Networking Projects
+
+✔ Learn Cloud Security
+
+✔ Contribute to Open Source
+
+✔ Secure an Internship
 ```
+
+---
+
+# 🚀 Currently Building
+
+- 🛡 Firewall Monitoring System
+- 🌐 C3 Official Website
+- 📡 WiFi CSI Human Activity Detection
+- 🐍 Python Automation Projects
+- ☁ Cloud & Linux Labs
 
 ---
 
 # 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:ashfaqashu689@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF99"/>
+</a>
+
+<a href="https://github.com/ashfaq-ahmed02">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ashfaq-ahmed-m-b3a49a2a5">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
 
-<a href="https://github.com/ashfaq-ahmed02">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+## 💚 Learn. Build. Secure. Repeat.
+
+### 🌐 Connecting Networks
+
+### 🔐 Securing Systems
+
+### 🚀 Building the Future
 
 </div>
 
 ---
 
-# 💚 Profile Views
+# 💻 Terminal Status
 
-<div align="center">
+```bash
+Ashfaq@github:~$
 
-<img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=PROFILE+VIEWS&style=for-the-badge&color=00ff41"/>
+Status          : Learning 📚
 
-</div>
+Mode            : Building 🚀
+
+Focus           : Network Security
+
+Operating System: Linux 🐧
+
+Editor          : VS Code
+
+Coffee          : ████████████ 100%
+
+Sleep           : ██░░░░░░░░░ 20%
+
+Motivation      : ███████████████ 100%
+
+Mission         : Become a Network Security Engineer
+```
 
 ---
 
-# 💭 Quote
+# ⭐ Thanks For Visiting
 
-<div align="center">
+<p align="center">
 
-> ## "Learn. Build. Secure. Repeat."
+If you like my work, consider giving a ⭐ to my repositories.
 
-### 🌐 Networking First • 🔐 Security Always • 🚀 Never Stop Learning
+Together let's build secure systems and better technology.
 
-</div>
+</p>
 
----
+<p align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,30:001F3F,60:00BFFF,100:00FF99"/>
 
-## ⭐ Thanks for Visiting ⭐
-
-If you like my work, don't forget to ⭐ my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,30:001f3f,60:00bfff,100:00ff99"/>
-
-</div>
+</p>
