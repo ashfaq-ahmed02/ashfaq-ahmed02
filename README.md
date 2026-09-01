@@ -1,5 +1,7 @@
 <!-- ========================================================= -->
+
 <!--                    MATRIX CYBER BANNER                    -->
+
 <!-- ========================================================= -->
 
 <p align="center">
@@ -9,7 +11,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Computer+Network+Engineer;Cybersecurity+Enthusiast;React+Developer;Python+Developer;UI%2FUX+Designer;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Computer+Network+Engineer;Cybersecurity+Enthusiast;DevOps+Engineer;Python+Developer;UI%2FUX+Designer;Always+Learning+Always+Building"/>
 </p>
 
 ---
@@ -49,7 +51,7 @@ Ashfaq Ahmed
 
 Computer Network Engineer
 Cybersecurity Enthusiast
-React Developer
+DevOps Engineer
 
 > organization
 
@@ -65,7 +67,7 @@ Computer Networking
 Linux
 Cybersecurity
 Python
-React
+DevOps
 
 > motto
 
@@ -82,13 +84,13 @@ Hi 👋
 
 I'm **Ashfaq Ahmed**, a passionate Computer Science Engineering student with a strong interest in:
 
-- 🌐 Computer Networking
-- 🔐 Cybersecurity
-- 💻 React Development
-- 🐍 Python Development
-- 🎨 UI/UX Design
+* 🌐 Computer Networking
+* 🔐 Cybersecurity
+* ⚙️ DevOps
+* 🐍 Python Development
+* 🎨 UI/UX Design
 
-I enjoy building secure systems, modern web applications, networking projects, and continuously learning new technologies.
+I enjoy building secure systems, modern web applications, networking projects, DevOps pipelines, and continuously learning new technologies.
 
 ---
 
@@ -108,6 +110,10 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 ✔ Learn Cloud Technologies
 
+✔ Practice DevOps & CI/CD
+
+✔ Build and Manage Docker Containers
+
 ✔ Lead Technical Communities
 
 ---
@@ -124,7 +130,7 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 <img src="https://img.shields.io/badge/🔐-Cybersecurity-00bfff?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/💻-React-00ff99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️-DevOps-00ff99?style=for-the-badge"/>
 
 </div>
 
@@ -134,7 +140,7 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,python,react,fastapi,mysql,figma,vscode,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,python,docker,fastapi,mysql,figma,vscode,html,css,js&theme=dark"/>
 
 <br><br>
 
@@ -182,7 +188,7 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
@@ -190,15 +196,35 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 ---
 
+## ⚙️ DevOps
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
-| 🚀 Project | Description | Tech |
-|------------|-------------|------|
-| 🛡 Firewall Monitoring System | Real-time firewall monitoring dashboard with analytics | Python • Flask • MySQL |
-| 🌐 RuView WiFi Sensing | Human activity detection using WiFi CSI | Python • ESP32 |
-| 🏥 Hospital Dashboard | Responsive Hospital Management Dashboard | React • MySQL |
-| 🎓 Campus to Corporate Website | Official C3 club website | React • Figma |
-| 📊 Power BI Dashboard | Interactive business analytics | Power BI |
+| 🚀 Project                     | Description                                            | Tech                   |
+| ------------------------------ | ------------------------------------------------------ | ---------------------- |
+| 🛡 Firewall Monitoring System  | Real-time firewall monitoring dashboard with analytics | Python • Flask • MySQL |
+| 🌐 RuView WiFi Sensing         | Human activity detection using WiFi CSI                | Python • ESP32         |
+| 🏥 Hospital Dashboard          | Responsive Hospital Management Dashboard               | React • MySQL          |
+| 🎓 Campus to Corporate Website | Official C3 club website                               | React • Figma          |
+| 📊 Power BI Dashboard          | Interactive business analytics                         | Power BI               |
 
 ---
 
@@ -279,6 +305,41 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 ---
 
+# ⚙️ DevOps Lab
+
+```text
+                         DEVOPS LAB
+                             │
+       ┌─────────────────────┼─────────────────────┐
+       │                     │                     │
+       ▼                     ▼                     ▼
+     LINUX                  GIT                  DOCKER
+       │                     │                     │
+       │                     ▼                     ├── Images
+       │                  GITHUB                   ├── Containers
+       │                     │                     ├── Networks
+       │                     ▼                     ├── Volumes
+       │               GITHUB ACTIONS              └── Compose
+       │                     │
+       │               ┌─────┴─────┐
+       │               │           │
+       │               ▼           ▼
+       │             PYTEST      DOCKER
+       │              TESTS       BUILD
+       │               │           │
+       │               └─────┬─────┘
+       │                     │
+       │                     ▼
+       │                DOCKER HUB
+       │                     │
+       │                     ▼
+       │                 DEPLOYMENT
+       │
+       └───────────────────────────────────────────
+```
+
+---
+
 # 🔐 Current Learning
 
 ```text
@@ -294,11 +355,37 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 ✔ Python
 
-✔ React
-
 ✔ MySQL
 
 ✔ Ethical Hacking
+
+✔ Git & GitHub
+
+✔ Docker
+
+✔ Docker Compose
+
+✔ Docker Networking
+
+✔ Docker Volumes
+
+✔ Docker Hub
+
+✔ CI/CD
+
+✔ GitHub Actions
+
+✔ Pytest
+
+✔ Cloud Computing Fundamentals
+
+✔ IAM
+
+✔ Virtual Machines
+
+✔ Object Storage
+
+✔ DevSecOps Fundamentals
 ```
 
 ---
@@ -307,12 +394,12 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 <div align="center">
 
-| 🏆 Certification | Platform | Status |
-|:-----------------|:--------:|:------:|
-| Computer Network: A Core Fundamentals of Computer Networking | Self Learning | ✅ Completed |
-| Linux Essentials | Linux Foundation | 🎯 Target 2026 |
-| Ethical Hacking | TryHackMe | 🎯 Target 2026 |
-| CCNA | Cisco | 🎯 Target 2026 |
+| 🏆 Certification                                             |     Platform     |     Status     |
+| :----------------------------------------------------------- | :--------------: | :------------: |
+| Computer Network: A Core Fundamentals of Computer Networking |   Self Learning  |   ✅ Completed  |
+| Linux Essentials                                             | Linux Foundation | 🎯 Target 2026 |
+| Ethical Hacking                                              |     TryHackMe    | 🎯 Target 2026 |
+| CCNA                                                         |       Cisco      | 🎯 Target 2026 |
 
 </div>
 
@@ -329,9 +416,9 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 ██████████████████░░░░░░ Cybersecurity
 
-████████████████░░░░░░░ React
+████████████████░░░░░░░ DevOps
 
-███████████████░░░░░░░░ MySQL
+███████████████░░░░░░░░ Cloud
 
 ██████████████░░░░░░░░░ Python
 ```
@@ -348,11 +435,11 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 ## 👨‍💼 Leadership
 
-- 🏆 President — Campus to Corporate (C3)
-- 🎤 Technical Session Speaker
-- 👨‍🏫 Student Mentor
-- 💡 Event Organizer
-- 🤝 Team Leader
+* 🏆 President — Campus to Corporate (C3)
+* 🎤 Technical Session Speaker
+* 👨‍🏫 Student Mentor
+* 💡 Event Organizer
+* 🤝 Team Leader
 
 </td>
 
@@ -360,11 +447,11 @@ I enjoy building secure systems, modern web applications, networking projects, a
 
 ## 💼 Experience
 
-- 🌐 Computer Networking
-- 🔐 Cybersecurity
-- 💻 React Developer
-- 🐍 Python Developer
-- 🎨 UI/UX Designer
+* 🌐 Computer Networking
+* 🔐 Cybersecurity
+* ⚙️ DevOps Engineer
+* 🐍 Python Developer
+* 🎨 UI/UX Designer
 
 </td>
 
@@ -391,7 +478,7 @@ Focus Areas
 
 ✔ Cybersecurity
 
-✔ React Development
+✔ DevOps
 
 ✔ Python
 
@@ -411,9 +498,17 @@ Focus Areas
 
 ✔ Learn Advanced Cybersecurity
 
-✔ Build Real-World React Projects
+✔ Build Real-World DevOps Projects
 
 ✔ Build Python Automation Projects
+
+✔ Learn Docker & Containerization
+
+✔ Build CI/CD Pipelines
+
+✔ Learn Cloud Infrastructure
+
+✔ Practice DevSecOps
 
 ✔ Crack CCNA
 
